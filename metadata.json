@@ -1,0 +1,10 @@
+{
+  "name": "Amirali Math AI",
+  "description": "An advanced, super-fast math solver AI designed by Amirali that solves math equations from text, image uploads, camera capture, or interactive drawings instantly.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
